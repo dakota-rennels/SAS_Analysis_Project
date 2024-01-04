@@ -1,5 +1,7 @@
 ## Non-Profit Marketing Campaign Efficiency Project
 
+### Read the Full Report Here: [Full Report](Nonprofit_marketing_report.pdf)
+
 **Project description:** My team was recruited by a non-profit organization to maximize cost efficiency for a donation campaign using data from previous campaigns. Our main goal was to create a model with high accuracy to classify a potential repeat donor. Another model will be used to predict the amount the donor will donate. Based on the software the non-profit has at their disposal, we determined SAS Enterprise Miner was the best software to collaborate and develop models so individuals at the organization can inherit the models for future use while our team can help provide future analytics and support.
 
 ### 1. Perform descriptive statistics and EDA on provided data.
